@@ -18,7 +18,7 @@ project-name-3/
 
 ... (similar structure as above)
 Get in Touch
-I am excited about the potential for collaboration and growth. If you have questions, suggestions, or opportunities, please reach out to me at your.email@example.com.
+I am excited about the potential for collaboration and growth. If you have questions, suggestions, or opportunities, please reach out to me at ethanb28@gmail.com.
 
 Thank you for visiting my Data Analyst Project Portfolio! Your interest is appreciated.
 
