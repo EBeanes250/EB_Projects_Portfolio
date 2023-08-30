@@ -81,7 +81,6 @@ We have applied the following Machine Learning algorithms:
 - Linear Regression
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
-- Decision Trees
 
 ### Conclusions
 
