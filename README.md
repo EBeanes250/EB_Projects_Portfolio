@@ -22,8 +22,6 @@ I am excited about the potential for collaboration and growth. If you have quest
 
 Thank you for visiting my Data Analyst Project Portfolio! Your interest is appreciated.
 
-Optional: Include a License section if applicable.
-
 
 
 
