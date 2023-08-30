@@ -44,17 +44,3 @@ We have applied the following Machine Learning algorithms:
 
 ## Conclusions
 The project helped in understanding which players have improved over the time based on the metrics provided. The machine learning models further assisted in classifying the players into 'Improved' and 'Not Improved' categories.
-
-## How to Run
-1. Clone this repository.
-2. Open the Jupyter Notebook.
-3. Run all cells in the notebook.
-
-"""
-
-# Saving the README.md file
-readme_path = '/mnt/data/README.md'
-with open(readme_path, 'w') as f:
-    f.write(readme_content)
-
-readme_path
