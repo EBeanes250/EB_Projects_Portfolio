@@ -1,7 +1,7 @@
 # Read Me Files for all Projects in this Repository 
 
 **Project 1 Baseball Player Development Analysis**
-1. PFA_Summer_Data.ipynb
+1. PFA_Summer_Data.ipynb or https://github.com/EBeanes250/EB_Projects_Portfolio/blob/main/PFA_Summer_Data.ipynb
 
 ## Project Overview
 This project aims to analyze the development of baseball players based on multiple metrics such as velocity, spin rate, and vertical break. The dataset used contains these metrics for various players over different days.
