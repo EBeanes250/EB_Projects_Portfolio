@@ -1,4 +1,4 @@
-# Read Me Files for all Projects
+# Read Me Files for all Projects in this Repository 
 
 **Project 1 Baseball Player Development Analysis**
 1. PFA_Summer_Data.ipynb
