@@ -1,6 +1,6 @@
-# Read Me Files for all Projects in this Repository 
+# Read Me File for All Projects in this Repository 
 
-**Project 1 Baseball Player Development Analysis**
+**Projects**
 1. PFA_Summer_Data.ipynb or https://github.com/EBeanes250/EB_Projects_Portfolio/blob/main/PFA_Summer_Data.ipynb
 
 ## Project Overview
