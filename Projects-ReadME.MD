@@ -89,21 +89,22 @@ The project helped in understanding which players have improved over time based 
 With a bigger dataset I am confident enough to say that running more classification and regression models can be a key to helping coaches know if players are working on there mechanics / craft etc during there time at the PFA training facility.
 
 
-Finally the statistical analysis revealed significant differences in performance metrics such as speed, spin, and vertical break between Day 1 and maximum recorded values. Specifically:
+Finally, the statistical analysis revealed significant differences in performance metrics such as speed, spin, and vertical break between Day 1 and maximum recorded values. Specifically:
 
 Speed: Individuals were generally slower on Day 1 compared to their maximum speed.
+
 Spin: The spin rate was notably lower on Day 1 as opposed to peak performance.
-Vertical Jump: Lower vertical jumps were observed on Day 1 compared to the highest jumps recorded.
+
+Vertical Jump: Lower vertical jumps were observed on Day 1 compared to the highest vertical breaks recorded.
 Additionally, we observed variations in these metrics across different days, indicating that performance is not consistent.
 
 Recommendations
 Based on these findings, we suggest the following:
 
-Adjust Training Programs: Incorporate more speed and strength drills to improve Day 1 performance.
-Focus on Technique: Consider workshops or specialized training to enhance spin and jump techniques.
-Improve Consistency: Implement exercises aimed at maintaining consistent performance across different days.
-Monitor and Adapt: Use real-time performance monitoring to make immediate adjustments to training routines.
-By adopting these recommendations, we aim to enhance both the initial and sustained performance in these key areas.
+*Adjust Training Programs:* Incorporate more speed and strength drills to improve Day 1 performance.
+*Focus on Technique:* Consider workshops or specialized training to enhance spin and jump techniques.
+*Improve Consistency:* Implement exercises aimed at maintaining consistent performance across different days.
+*Monitor and Adapt:* Use real-time performance monitoring to make immediate adjustments to training routines.
 
 
 
