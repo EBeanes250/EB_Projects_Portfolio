@@ -99,7 +99,7 @@ Vertical Break: Lower vertical jumps were observed on Day 1 compared to the high
 Additionally, we observed variations in these metrics across different days, indicating that performance is not consistent.
 
 Recommendations
-Based on these findings, we suggest the following:
+Based on these findings, here are some alternatives:
 
 *Adjust Training Programs:* Incorporate more speed and strength drills to improve Day 1 performance.
 
