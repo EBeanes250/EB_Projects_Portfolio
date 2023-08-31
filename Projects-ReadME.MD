@@ -89,8 +89,8 @@ The project helped in understanding which players have improved over time based 
 With a bigger dataset I am confident enough to say that running more classification and regression models can be a key to helping coaches know if players are working on there mechanics / craft etc during there time at the PFA training facility.
 
 
-Finally, the statistical analysis revealed significant differences in performance metrics such as speed, spin, and vertical break between Day 1 and maximum recorded values. Specifically:
-
+Finally, the statistical analysis revealed significant differences in performance metrics such as speed, spin, and vertical break between Day 1 and maximum recorded values. 
+Specifically:
 Speed: Individuals were generally slower on Day 1 compared to their maximum speed.
 
 Spin: The spin rate was notably lower on Day 1 as opposed to peak performance.
