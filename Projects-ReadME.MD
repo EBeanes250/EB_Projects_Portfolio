@@ -84,7 +84,7 @@ We have applied the following Machine Learning algorithms:
 
 ### Conclusions
 
-The project helped in understanding which players have improved over time based on the metrics provided. The machine learning models further assisted in classifying the players into 'Improved' and 'Not Improved' categories.
+The PFA project helped me understand which players have improved over time based on the metrics provided. The machine learning models further assisted in classifying the players into 'Improved' and 'Not Improved' categories.
 
 With a bigger & different dataset I am confident enough to say that running more classification and regression models can be a key to helping coaches know if players are working on there mechanics / craft etc during there time at the PFA training facility.
 
