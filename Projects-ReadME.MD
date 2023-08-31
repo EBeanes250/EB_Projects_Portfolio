@@ -95,7 +95,7 @@ Speed: Individuals were generally slower on Day 1 compared to their maximum spee
 
 Spin: The spin rate was notably lower on Day 1 as opposed to peak performance.
 
-Vertical Jump: Lower vertical jumps were observed on Day 1 compared to the highest vertical breaks recorded.
+Vertical Break: Lower vertical jumps were observed on Day 1 compared to the highest vertical breaks recorded.
 Additionally, we observed variations in these metrics across different days, indicating that performance is not consistent.
 
 Recommendations
