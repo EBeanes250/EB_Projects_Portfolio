@@ -102,8 +102,11 @@ Recommendations
 Based on these findings, we suggest the following:
 
 *Adjust Training Programs:* Incorporate more speed and strength drills to improve Day 1 performance.
+
 *Focus on Technique:* Consider workshops or specialized training to enhance spin and jump techniques.
+
 *Improve Consistency:* Implement exercises aimed at maintaining consistent performance across different days.
+
 *Monitor and Adapt:* Use real-time performance monitoring to make immediate adjustments to training routines.
 
 
