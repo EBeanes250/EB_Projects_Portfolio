@@ -32,7 +32,7 @@ This repository contains various projects that focus on data science and machine
 
 ### Overview
 
-This project aims to analyze the development of baseball players based on multiple metrics such as velocity, spin rate, and vertical break. The dataset used contains these metrics for various players over different days.
+This project aims to analyze the development of baseball players based on multiple metrics such as velocity, spin rate, and vertical break. The dataset used contains these metrics for various players over a period of 5 weeks.
 
 ### Objectives
 
